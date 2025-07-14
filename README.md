@@ -1,2 +1,2 @@
 ⭐
-:Dgit pull origin JudithVCQ/edit
+:p
